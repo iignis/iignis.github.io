@@ -1,0 +1,17 @@
+body{
+    background-color: #f59072;
+}
+
+p{
+    color:#3e4066;
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+h1{
+    color: #eb4464;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 40px;
+}
